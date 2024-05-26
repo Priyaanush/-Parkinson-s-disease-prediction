@@ -1,1 +1,3 @@
 # -Parkinson-s-disease-prediction
+
+Parkinson's disease (PD) refers to a neurodegenerative illness with a variety of symptoms, including both motor and nonmotor ones, and no clear clinical sign for diagnosis. Parkinson's disease symptoms include shaking, stiffness, slowness of movement, and trouble walking. It also causes thought and behavior changes. Anxiety and depression are also prevalent. A voice-based model exists for Parkinson's disease detection. This study describes the evolution of essential aspects in the diagnosis of Parkinson's disease (PD), with a focus on nonmotor symptoms and how they may be detected.
